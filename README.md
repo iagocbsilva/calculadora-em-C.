@@ -3,7 +3,7 @@
 Este projeto consiste em uma **calculadora científica desenvolvida em linguagem C**, capaz de realizar operações básicas, científicas e estatísticas, além de manipulação de matrizes.  
 O código foi estruturado de forma modular, utilizando funções, estruturas e boas práticas de programação.
 
----
+
 
 ## Funcionalidades
 
@@ -48,7 +48,7 @@ A calculadora oferece um conjunto abrangente de operações matemáticas organiz
 - Histórico de operações (até 50 registros)  
 - Sistema de menu interativo em terminal  
 
----
+
 
 ## Estrutura do Código
 
@@ -62,7 +62,7 @@ O código utiliza:
   - `string.h`
   - `math.h`
 
----
+
 Limitações
 
 O histórico armazena no máximo 50 operações.
